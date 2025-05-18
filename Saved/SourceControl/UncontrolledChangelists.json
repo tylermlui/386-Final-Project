@@ -5,25 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-=======
-				"C:/Users/tyler/386-Final-Project/Content/InfiniteMatrix/Blueprints/BP_Chicken_Char.uasset",
-				"C:/Users/tyler/386-Final-Project/Content/InfiniteMatrix/Blueprints/BP_Lane.uasset",
-				"C:/Users/tyler/386-Final-Project/Content/InfiniteMatrix/Blueprints/BP_Eagle.uasset",
->>>>>>> 178c6ac69bb140345cf7ef4cab0cc596c68f24d5
 				"C:/Users/ThatN/Downloads/cr_uproject_05May2025/Content/InfiniteMatrix/Meshes/Highways/1lane_water_vox.uasset",
 				"C:/Users/ThatN/Downloads/cr_uproject_05May2025/Content/InfiniteMatrix/Meshes/Highways/palette_001.uasset",
 				"C:/Users/ThatN/Downloads/cr_uproject_05May2025/Content/InfiniteMatrix/Meshes/Highways/river.uasset",
 				"C:/Users/ThatN/Downloads/cr_uproject_05May2025/Content/InfiniteMatrix/Blueprints/BP_River.uasset",
-<<<<<<< HEAD
-=======
-				"C:/Users/ThatN/Downloads/cr_uproject_05May2025/Content/InfiniteMatrix/Blueprints/BP_Lilypad.uasset",
->>>>>>> 178c6ac69bb140345cf7ef4cab0cc596c68f24d5
 				"C:/Users/ThatN/Downloads/cr_uproject_05May2025/Content/InfiniteMatrix/Blueprints/BP_Chicken_Char.uasset",
 				"C:/Users/ThatN/Downloads/cr_uproject_05May2025/Content/InfiniteMatrix/Blueprints/BP_Lane.uasset",
 				"C:/Users/ThatN/Downloads/cr_uproject_05May2025/Content/InfiniteMatrix/Blueprints/BP_LaneSpawner.uasset",
 				"C:/Users/ThatN/Downloads/cr_uproject_05May2025/Content/InfiniteMatrix/Blueprints/BP_VehicleSpawner.uasset",
-<<<<<<< HEAD
 				"C:/Users/ThatN/Downloads/cr_uproject_05May2025/Content/InfiniteMatrix/Maps/TutorialMap.umap",
 				"C:/Users/ThatN/Downloads/cr_uproject_05May2025/Content/InfiniteMatrix/Blueprints/BP_Vehicle.uasset",
 				"C:/Users/ThatN/Downloads/cr_uproject_05May2025/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
@@ -79,9 +68,6 @@
 				"C:/Users/ThatN/Downloads/cr_uproject_05May2025/Content/InfiniteMatrix/Train.uasset",
 				"C:/Users/ThatN/Downloads/cr_uproject_05May2025/Content/InfiniteMatrix/Vehicle.uasset",
 				"C:/Users/ThatN/Downloads/cr_uproject_05May2025/Content/InfiniteMatrix/Blueprints/BP_Lilypad.uasset",
-=======
-				"C:/Users/ThatN/Downloads/cr_uproject_05May2025/Content/InfiniteMatrix/Blueprints/Log.uasset",
->>>>>>> 178c6ac69bb140345cf7ef4cab0cc596c68f24d5
 				"/Users/williammccarthy/Downloads/__386/cr_uproject_23Apr2025/Content/InfiniteMatrix/Maps/TutorialMap.umap",
 				"/Users/williammccarthy/Downloads/__386/cr_uproject_23Apr2025/Content/InfiniteMatrix/Meshes/chick_fillet.uasset",
 				"/Users/williammccarthy/Downloads/__386/cr_uproject_23Apr2025/Content/InfiniteMatrix/Meshes/SM_RROneLane.uasset",
