@@ -1373,6 +1373,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.16-07.47.33:238][177]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_9'.
 [2025.05.16-07.47.33:261][178]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
 [2025.05.16-07.47.33:262][178]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_10'.
+<<<<<<< HEAD
 [2025.05.16-07.48.47:090][693]LogDerivedDataCache: C:/Users/ThatN/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
 [2025.05.16-07.52.19:186][512]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_LaneSpawner.BP_LaneSpawner
 [2025.05.16-07.52.19:189][512]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
@@ -3171,3 +3172,5 @@ Continue: Skip saving this asset only.
 [2025.05.16-08.38.47:692][513]LogD3D12RHI: ~FD3D12DynamicRHI
 [2025.05.16-08.38.47:755][513]LogExit: Exiting.
 [2025.05.16-08.38.47:791][513]Log file closed, 05/16/25 01:38:47
+=======
+>>>>>>> 178c6ac69bb140345cf7ef4cab0cc596c68f24d5
